@@ -1,17 +1,4 @@
-明白，我现在直接为你输出**最终版·中英双语 README**，可直接复制粘贴到 GitHub **原地覆盖**，无需你再做任何修改、微调或排版处理。
 
-我会保持：
-
-* **正式、专业、可用于面试 & 投递华为/字节/美团北斗/新加坡政府/NeurIPS Poster 展示**
-* **全局结构稳定**
-* **中英完全对齐，不出现内容不一致**
-* **表格全部为 GitHub 可正常渲染格式，不会折行炸格式**
-
----
-
-# ✅ **最终版 README.md（中英双语）**
-
-```markdown
 # IDS Minimal — Trajectory-Level Alignment & Intent Drift Detection  
 # IDS Minimal — 轨迹级对齐与意图漂移检测框架
 
