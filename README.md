@@ -177,7 +177,3 @@ You can request **production partnership / closed technical briefing**:
 
 ```
 
-
-
-只回答：**要 / 不要**
-```
